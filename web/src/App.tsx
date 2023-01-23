@@ -1,6 +1,6 @@
 import './styles/global.css'
 import { Plus } from 'phosphor-react'
-
+import './lib/dayjs'
 import { Header } from './components/Header'
 import { SummaryTable } from './components/SummaryTable'
 
